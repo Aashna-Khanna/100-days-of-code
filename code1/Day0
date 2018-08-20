@@ -1,0 +1,16 @@
+<html>
+<head>
+
+</head>
+<body>
+<script>
+function mysignature()
+{
+document.write("Aashi Khanna<br/>");
+document.write("aashnakhanna66@gmail.com");}
+</script>
+<h1>javascript program</h1>
+
+<button onclick="mysignature()">MY SIGN </button>
+</body>
+</html>
